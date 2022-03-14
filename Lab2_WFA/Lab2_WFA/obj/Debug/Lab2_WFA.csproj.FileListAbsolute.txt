@@ -1,0 +1,14 @@
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\bin\Debug\Lab2_WFA.exe.config
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\bin\Debug\Lab2_WFA.exe
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\bin\Debug\Lab2_WFA.pdb
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.csproj.AssemblyReference.cache
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Properties.Resources.resources
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.csproj.GenerateResource.cache
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.csproj.CoreCompileInputs.cache
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.exe
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.pdb
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Ex11.resources
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Ex12.resources
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Ex2.resources
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Ex3.resources
+C:\Users\negre\Documents\Lab2_WFA\Lab2_WFA\Lab2_WFA\obj\Debug\Lab2_WFA.Ex4.resources

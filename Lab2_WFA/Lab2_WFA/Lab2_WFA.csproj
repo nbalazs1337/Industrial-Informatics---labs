@@ -46,14 +46,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Ex11.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Ex11.Designer.cs">
+      <DependentUpon>Ex11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex12.Designer.cs">
+      <DependentUpon>Ex12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex2.Designer.cs">
+      <DependentUpon>Ex2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex3.Designer.cs">
+      <DependentUpon>Ex3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex4.Designer.cs">
+      <DependentUpon>Ex4.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Ex11.resx">
+      <DependentUpon>Ex11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex12.resx">
+      <DependentUpon>Ex12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex2.resx">
+      <DependentUpon>Ex2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex3.resx">
+      <DependentUpon>Ex3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex4.resx">
+      <DependentUpon>Ex4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

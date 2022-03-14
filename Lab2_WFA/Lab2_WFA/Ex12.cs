@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Lab2_WFA
 {
-    public partial class Form1 : Form
+    public partial class Ex12 : Form
     {
-        public Form1()
+        public Ex12()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
